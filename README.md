@@ -6,6 +6,11 @@
 
 Supporting sample code repository for the SAP Developer Tutorial - Machine Learning Primer for the SAP Developer available at https://developers.sap.com/tutorials/cp-ml-primer.html
 
+### You will learn
+  - How to use `Python`, `Jupyter Notebook`, `Numpy`, and `Pandas`
+  - How to build a text classification model using `Scikit-Learn`
+  - How to analyze model accuracy
+
 ## Requirements
 
  - General understanding of Python helpful, but not required
