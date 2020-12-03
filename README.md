@@ -1,6 +1,10 @@
-# Title
+# cloud-ml-basic-intro
+
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/cloud-ml-basic-intro)](https://api.reuse.software/info/github.com/SAP-samples/cloud-ml-basic-intro)
 
 ## Description
+
+Supporting sample code repository for the SAP Developer Tutorial - Machine Learning Primer for the SAP Developer available at https://developers.sap.com/tutorials/cp-ml-primer.html
 
 ## Requirements
 
